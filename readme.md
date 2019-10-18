@@ -1,7 +1,7 @@
 Simple app for books sorting made in Laravel.
 
 
-At the beggining use http://site_name/populate to populate the db with variables.
+At the beggining use http://site_name/populate to populate the db with variables. (Can be use multiple times)
 
 All values you can find in App/Repositories/PopulateBD.php
 
